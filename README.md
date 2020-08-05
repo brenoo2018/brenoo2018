@@ -5,7 +5,7 @@
 Sou apaixonado por programação e estou sempre em busca de me aperfeiçoar e dar o meu melhor.
 Sou Desenvolvedor NodeJs e aos poucos me aventurando em ReactJs e React Native :computer:
 
- <br/> :mortar_board:Formado em Ciência da Computação
+ <br/> :mortar_board: Formado em Ciência da Computação
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end usando Node, em Front-end usando React e em Mobile usando React Native
  <br/> :blush: &nbsp; Posso ajudar iniciantes em programação
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native
