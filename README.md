@@ -3,7 +3,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por programação e estou sempre em busca de me aperfeiçoar e dar o meu melhor.
-Sou Desenvolvedor NodeJs e aos poucos me aventurando em ReactJs e React Native :computer:
+Sou Desenvolvedor back-end node.js com foco na criação de APIs RESTful e integração com APIs externas, e aos poucos me aventurando em ReactJs e React Native :computer:
 
  <br/> :mortar_board: Formado em Ciência da Computação
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end usando Node, em Front-end usando React e em Mobile usando React Native
